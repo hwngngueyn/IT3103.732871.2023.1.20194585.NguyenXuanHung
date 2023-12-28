@@ -1,0 +1,9 @@
+Question 1: Add a method addDigitalVideoDisc which allows to pass an arbitrary number of arguments for dvd. Compare to an array parameter. What do you prefer in this case?
+Answer 1 : This case is an array parameter.
+
+Question 2: Is JAVA a Pass by Value or a Pass by Reference programming language? 
+●Pass by value: The method parameter values are copied to another variable and then the copied object is passed to the method. That's why it's called pass by value 
+●Pass by reference: An alias or reference to the actual parameter is passed to the method. That's why it's called pass by reference.
+Answer 2 : JAVA is always a pass by value 
+
+
